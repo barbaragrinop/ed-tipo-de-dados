@@ -1,2 +1,2 @@
-# ed-tipo-de-dados
-Aula de estrutura de Dados com o Professor Cláudio Nunes pela FATEC
+# Primeira aula de tipo de dados
+### Professor Cláudio Nunes 
